@@ -1,0 +1,8 @@
+name: willitbuild02
+recipe: pantheon
+config:
+  framework: drupal8
+  site: willitbuild02
+  id: 4b9082db-988c-48b8-a2e0-a9be71ed8e75
+  webroot: web
+  xdebug: true
